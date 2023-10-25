@@ -2,7 +2,7 @@
 
 # >o_o< axodotdev
 
-Hey! We're a company focused on building last-mile software delivery for native applications - our tools are designed to build, package, distribute, publish, and announce your software, with a focus on making your end users' experience as simple and painless as possible, regardless of their operating system, language ecosystem, or preferred package manager. We write software for and in Rust, but are looking to expand into other languages!
+axodotdev is a platform that provides developers with utilities, infrastructure, and analytics, to ship awesome installation experiences to users, no matter what operating system, platform, or package manager they use.
 
 Connect with us:
 
