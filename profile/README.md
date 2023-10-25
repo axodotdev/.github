@@ -1,4 +1,4 @@
-<img align="left" width="250" src="https://axo.dev/balloons.svg">
+<img align="left" width="200" src="https://axo.dev/balloons.svg">
 
 # >o_o< axodotdev
 
